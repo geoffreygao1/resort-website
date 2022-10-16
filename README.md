@@ -1,4 +1,4 @@
-# _Resort Website _
+# _Resort Website_
 
 #### By _Geoffrey Gao_
 
