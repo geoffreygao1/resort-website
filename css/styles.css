@@ -1,0 +1,28 @@
+body {
+  background-color: #a8d5e2;
+  color: #104911;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: #548C2F;
+}
+
+h3 {
+  text-align: left;
+}
+
+ul {
+  color: #F9A620;
+  font-size: larger;
+  font-style: oblique;
+}
+
+a {
+  color: #FFD449;
+}
